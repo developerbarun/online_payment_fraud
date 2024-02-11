@@ -2,7 +2,7 @@ Here I have tried to solve online fraud issue with the help of machine learning 
 
 The dataset we will be using have these columns – 
 
-|__________________________________________________________________________|
+|__________________________________________________________________________ |
 |Feature    	   |     Description                                         |
 |_________________________________________________________________________ |
 | step	         |   tells about the unit of time                          |
